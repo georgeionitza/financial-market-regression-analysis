@@ -27,7 +27,7 @@ Key objectives:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/georgeionitza/equity-factor-regression-analysis.git
+   git clone https://github.com/georgeionitza/financial-market-regression-analysis
    ```
 2. Install dependencies:
    ```bash
